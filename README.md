@@ -30,3 +30,6 @@ Toggle between navigation modes using the **OK** button:
 - **Target Resolution** : 320 × 222 pixels (native NumWorks screen).
 - **Libraries** : Powered by `kandinsky` (screen drawing) and `ion` (keyboard inputs).
 - **Platform** : Runs directly on physical NumWorks calculators or within web simulators.
+
+It was coded on a Numworks calculator in Micropython.
+The project has been created the August 27 of 2024.
