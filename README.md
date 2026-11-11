@@ -32,4 +32,5 @@ Toggle between navigation modes using the **OK** button:
 - **Platform** : Runs directly on physical NumWorks calculators or within web simulators.
 
 It was coded on a Numworks calculator in Micropython.
+
 The project has been created the August 27 of 2024.
