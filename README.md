@@ -11,7 +11,7 @@ Toggle between navigation modes using the **OK** button:
 ### Translation Mode (Default)
 - **Up / Down Arrows** : Move forward / backward
 - **Left / Right Arrows** : Move left / right (strafe)
-- **Key 17 / Key 23** : Elevate up / descend down
+- **Key 17 (CLEAR) / Key 23 (→)** : Elevate up / descend down
 
 ### Look Mode
 - **Left / Right Arrows** : Yaw (horizontal look)
