@@ -33,4 +33,4 @@ Toggle between navigation modes using the **OK** button:
 
 It was coded on a Numworks calculator in Micropython.
 
-The project has been created the August 27 of 2024.
+The project has been created the June 25 of 2025.
