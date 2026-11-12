@@ -47,9 +47,3 @@ Previous versions and progressive iterations are preserved in the [`history/`](h
 - **Target Resolution** : 320 × 222 pixels (native NumWorks display).
 - **Libraries** : MicroPython standard modules `kandinsky` (rasterization) and `ion` (real-time key states).
 - **Platform** : Runs directly on hardware NumWorks calculators (N0110/N0120) and browser emulators.
-
----
-
-## 🛠️ Details
-
-The project has been created the June 25 of 2025.
